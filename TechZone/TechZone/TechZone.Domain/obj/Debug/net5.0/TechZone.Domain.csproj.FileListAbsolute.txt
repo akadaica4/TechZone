@@ -1,0 +1,12 @@
+D:\TechZone\TechZone\TechZone.Domain\bin\Debug\net5.0\TechZone.Domain.deps.json
+D:\TechZone\TechZone\TechZone.Domain\bin\Debug\net5.0\TechZone.Domain.dll
+D:\TechZone\TechZone\TechZone.Domain\bin\Debug\net5.0\ref\TechZone.Domain.dll
+D:\TechZone\TechZone\TechZone.Domain\bin\Debug\net5.0\TechZone.Domain.pdb
+D:\TechZone\TechZone\TechZone.Domain\obj\Debug\net5.0\TechZone.Domain.csproj.AssemblyReference.cache
+D:\TechZone\TechZone\TechZone.Domain\obj\Debug\net5.0\TechZone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechZone\TechZone\TechZone.Domain\obj\Debug\net5.0\TechZone.Domain.AssemblyInfoInputs.cache
+D:\TechZone\TechZone\TechZone.Domain\obj\Debug\net5.0\TechZone.Domain.AssemblyInfo.cs
+D:\TechZone\TechZone\TechZone.Domain\obj\Debug\net5.0\TechZone.Domain.csproj.CoreCompileInputs.cache
+D:\TechZone\TechZone\TechZone.Domain\obj\Debug\net5.0\TechZone.Domain.dll
+D:\TechZone\TechZone\TechZone.Domain\obj\Debug\net5.0\ref\TechZone.Domain.dll
+D:\TechZone\TechZone\TechZone.Domain\obj\Debug\net5.0\TechZone.Domain.pdb

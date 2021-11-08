@@ -1,0 +1,17 @@
+D:\TechZone\TechZone\TechZone.Service.Implement\bin\Debug\net5.0\TechZone.Service.Implement.deps.json
+D:\TechZone\TechZone\TechZone.Service.Implement\bin\Debug\net5.0\TechZone.Service.Implement.dll
+D:\TechZone\TechZone\TechZone.Service.Implement\bin\Debug\net5.0\ref\TechZone.Service.Implement.dll
+D:\TechZone\TechZone\TechZone.Service.Implement\bin\Debug\net5.0\TechZone.Service.Implement.pdb
+D:\TechZone\TechZone\TechZone.Service.Implement\bin\Debug\net5.0\TechZone.Domain.dll
+D:\TechZone\TechZone\TechZone.Service.Implement\bin\Debug\net5.0\TechZone.Service.Interface.dll
+D:\TechZone\TechZone\TechZone.Service.Implement\bin\Debug\net5.0\TechZone.Service.Interface.pdb
+D:\TechZone\TechZone\TechZone.Service.Implement\bin\Debug\net5.0\TechZone.Domain.pdb
+D:\TechZone\TechZone\TechZone.Service.Implement\obj\Debug\net5.0\TechZone.Service.Implement.csproj.AssemblyReference.cache
+D:\TechZone\TechZone\TechZone.Service.Implement\obj\Debug\net5.0\TechZone.Service.Implement.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechZone\TechZone\TechZone.Service.Implement\obj\Debug\net5.0\TechZone.Service.Implement.AssemblyInfoInputs.cache
+D:\TechZone\TechZone\TechZone.Service.Implement\obj\Debug\net5.0\TechZone.Service.Implement.AssemblyInfo.cs
+D:\TechZone\TechZone\TechZone.Service.Implement\obj\Debug\net5.0\TechZone.Service.Implement.csproj.CoreCompileInputs.cache
+D:\TechZone\TechZone\TechZone.Service.Implement\obj\Debug\net5.0\TechZone.Service.Implement.csproj.CopyComplete
+D:\TechZone\TechZone\TechZone.Service.Implement\obj\Debug\net5.0\TechZone.Service.Implement.dll
+D:\TechZone\TechZone\TechZone.Service.Implement\obj\Debug\net5.0\ref\TechZone.Service.Implement.dll
+D:\TechZone\TechZone\TechZone.Service.Implement\obj\Debug\net5.0\TechZone.Service.Implement.pdb

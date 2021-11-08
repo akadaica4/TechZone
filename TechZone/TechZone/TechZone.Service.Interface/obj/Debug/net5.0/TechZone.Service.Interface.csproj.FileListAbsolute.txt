@@ -1,0 +1,15 @@
+D:\TechZone\TechZone\TechZone.Service.Interface\bin\Debug\net5.0\TechZone.Service.Interface.deps.json
+D:\TechZone\TechZone\TechZone.Service.Interface\bin\Debug\net5.0\TechZone.Service.Interface.dll
+D:\TechZone\TechZone\TechZone.Service.Interface\bin\Debug\net5.0\ref\TechZone.Service.Interface.dll
+D:\TechZone\TechZone\TechZone.Service.Interface\bin\Debug\net5.0\TechZone.Service.Interface.pdb
+D:\TechZone\TechZone\TechZone.Service.Interface\bin\Debug\net5.0\TechZone.Domain.dll
+D:\TechZone\TechZone\TechZone.Service.Interface\bin\Debug\net5.0\TechZone.Domain.pdb
+D:\TechZone\TechZone\TechZone.Service.Interface\obj\Debug\net5.0\TechZone.Service.Interface.csproj.AssemblyReference.cache
+D:\TechZone\TechZone\TechZone.Service.Interface\obj\Debug\net5.0\TechZone.Service.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechZone\TechZone\TechZone.Service.Interface\obj\Debug\net5.0\TechZone.Service.Interface.AssemblyInfoInputs.cache
+D:\TechZone\TechZone\TechZone.Service.Interface\obj\Debug\net5.0\TechZone.Service.Interface.AssemblyInfo.cs
+D:\TechZone\TechZone\TechZone.Service.Interface\obj\Debug\net5.0\TechZone.Service.Interface.csproj.CoreCompileInputs.cache
+D:\TechZone\TechZone\TechZone.Service.Interface\obj\Debug\net5.0\TechZone.Service.Interface.csproj.CopyComplete
+D:\TechZone\TechZone\TechZone.Service.Interface\obj\Debug\net5.0\TechZone.Service.Interface.dll
+D:\TechZone\TechZone\TechZone.Service.Interface\obj\Debug\net5.0\ref\TechZone.Service.Interface.dll
+D:\TechZone\TechZone\TechZone.Service.Interface\obj\Debug\net5.0\TechZone.Service.Interface.pdb

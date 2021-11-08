@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TechZone.Service.Interface/1.0.0": {
+        "dependencies": {
+          "TechZone.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TechZone.Service.Interface.dll": {}
+        }
+      },
+      "TechZone.Domain/1.0.0": {
+        "runtime": {
+          "TechZone.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TechZone.Service.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TechZone.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
